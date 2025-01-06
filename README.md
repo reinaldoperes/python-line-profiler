@@ -27,7 +27,7 @@ pip install line-profiler
 🚀 How to Run
 1. Execute the script with kernprof:
 
-```python
+```bash
 kernprof -l -v script.py
 ```
 - The -l flag enables the @profile decorator.
